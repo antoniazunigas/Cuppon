@@ -1,0 +1,29 @@
+p{
+    color: #707070;
+    font-family:"Roboto,Light";
+    font-size: 13pt;
+}
+
+h2{
+    font-family:"Roboto, Medium"; 
+}
+
+.textonormal{
+    color: #707070;
+    font-size: 14pt;
+    text-align: center;
+    font-family: "Roboto,Light";
+    margin-right: 15px;
+}
+
+.textooferta{
+    color:#28A745;
+    font-size: 19pt;
+    text-align: right;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* footer */
+h5{
+    font-family:"Roboto,Light";
+}
